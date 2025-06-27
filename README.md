@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on **Ticketing system with Django**<br><br>- 🌱 I’m currently learning **Machine learning and frameworks of python**<br><br>- 💬 Ask me about **Python , Web designing**<br><br>- 📫 How to reach me **abiramaarjun75@gmail.com**<br><br>- ⚡ Fun fact **I eat more food and talk about cinema.**
+-🔭 I’m currently working on **Image processing based project**<br><br>- 🌱 I’m currently learning **Machine learning and frameworks of python**<br><br>- 💬 Ask me about **Python , Web designing**<br><br>- 📫 How to reach me **abiramaarjun75@gmail.com**<br><br>- ⚡ Fun fact **I eat qubits and talk about cinema.**
 
 
 ## 🌐 Socials:
